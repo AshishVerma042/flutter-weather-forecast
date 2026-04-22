@@ -17,18 +17,18 @@ A modern weather application built using Flutter that shows real-time weather da
 ### 🏠 Home & Navigation Flow
 
 <p align="center">
-  <img src="App Screenshots/SplashScreen.jpeg" width="220"/>
-  <img src="App Screenshots/Home.jpeg" width="220"/>
-  <img src="App Screenshots/Drawer.jpeg" width="220"/>
+  <img src="App Screenshot/SplashScreen.jpeg" width="220"/>
+  <img src="App Screenshot/Home.jpeg" width="220"/>
+  <img src="App Screenshot/Drawer.jpeg" width="220"/>
 </p>
 
 ### 📊 Bottom Sections & Reports
 
 <p align="center">
-  <img src="App Screenshots/BottomSection1.1.jpeg" width="220"/>
-  <img src="App Screenshots/BottomSection1.2.jpeg" width="220"/>
-  <img src="App Screenshots/BottomSection1.3.jpeg" width="220"/>
-  <img src="App Screenshots/BottomSectionWithDailyReport.jpeg" width="220"/>
+  <img src="App Screenshot/BottomSection1.1.jpeg" width="220"/>
+  <img src="App Screenshot/BottomSection1.2.jpeg" width="220"/>
+  <img src="App Screenshot/BottomSection1.3.jpeg" width="220"/>
+  <img src="App Screenshot/BottomSectionWithDailyReport.jpeg" width="220"/>
 </p>
 
 ---
